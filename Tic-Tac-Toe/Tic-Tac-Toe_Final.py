@@ -440,7 +440,7 @@ def abc():
     r2.mainloop()
 
 def efg():
-    messagebox.showinfo("Version", "Version 2.0 \n Name: Tic Tac Toe \n Developed By: 11510613,618,586 \n Developed on: 13/03/18 \n Last modified: 17/04/18")
+    messagebox.showinfo("Version", "Version 2.0 \n Name: Tic Tac Toe \n Developed By: Dot_Bot \n Developed on: 13/03/18 \n Last modified: 17/04/18")
 
 def qgame():
     ans2=messagebox.askquestion('Quit', "Do you really want to quit?")
