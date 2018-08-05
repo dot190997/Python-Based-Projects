@@ -36,7 +36,7 @@ def get_single_item_data(item_url):
         print(item_name.string)
     # if you want to gather links for a web crawler
     for link in soup.findAll('a'):
-        href = "https://buckysroom.org" + link.get('href')
+        href = "https://www.goodreads.com" + link.get('href')
         print(href)
 *** """
 
